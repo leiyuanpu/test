@@ -1,0 +1,21 @@
+{
+    "name": "meisha/education_php_sdk",
+    "description": "education Interface",
+    "license": "MIT",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "lumen",
+            "email": "lumen@meishakeji.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0.0"
+    },
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "MeiSha\\Education\\": "src/"
+        }
+    }
+}
