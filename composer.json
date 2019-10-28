@@ -1,12 +1,12 @@
 {
-    "name": "meisha/education_php_sdk",
+    "name": "lyp/test_package",
     "description": "education Interface",
     "license": "MIT",
     "version": "1.0.0",
     "authors": [
         {
-            "name": "lumen",
-            "email": "lumen@meishakeji.com"
+            "name": "lyp",
+            "email": "lyp@903911428.com"
         }
     ],
     "require": {
@@ -15,7 +15,7 @@
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
-            "MeiSha\\Education\\": "src/"
+            "lyp\\test\\": "src/"
         }
     }
 }
